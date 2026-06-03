@@ -1,42 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="497" viewBox="0 0 860 497">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="630" viewBox="0 0 900 630">
 <defs><style>
   .fade{animation:fadeIn 0.5s ease forwards;opacity:0}
   @keyframes fadeIn{to{opacity:1}}
   .blink{animation:blink 1s step-end infinite}
   @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
 </style></defs>
-<rect width="860" height="497" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-<text class="fade" style="animation-delay:0.00s" x="20" y="39" font-family="Courier New, Courier, monospace" font-size="13" fill="#1f6feb" xml:space="preserve">██████╗ ██████╗ ██╗   ██╗</text>
-<text class="fade" style="animation-delay:0.04s" x="20" y="58" font-family="Courier New, Courier, monospace" font-size="13" fill="#1f6feb" xml:space="preserve">  ██╔══██╗██╔══██╗██║   ██║</text>
-<text class="fade" style="animation-delay:0.08s" x="20" y="77" font-family="Courier New, Courier, monospace" font-size="13" fill="#1f6feb" xml:space="preserve">  ██████╔╝██████╔╝██║   ██║</text>
-<text class="fade" style="animation-delay:0.12s" x="20" y="96" font-family="Courier New, Courier, monospace" font-size="13" fill="#1f6feb" xml:space="preserve">  ██╔══██╗██╔══██╗██║   ██║</text>
-<text class="fade" style="animation-delay:0.16s" x="20" y="115" font-family="Courier New, Courier, monospace" font-size="13" fill="#1f6feb" xml:space="preserve">  ██████╔╝██║  ██║╚██████╔╝</text>
-<text class="fade" style="animation-delay:0.20s" x="20" y="134" font-family="Courier New, Courier, monospace" font-size="13" fill="#1f6feb" xml:space="preserve">  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝</text>
-<text class="fade" style="animation-delay:0.24s" x="20" y="153" font-family="Courier New, Courier, monospace" font-size="13" fill="#1f6feb" xml:space="preserve"></text>
-<text class="fade" style="animation-delay:0.28s" x="20" y="172" font-family="Courier New, Courier, monospace" font-size="13" fill="#1f6feb" xml:space="preserve">  ██╗     ██╗██████╗  █████╗</text>
-<text class="fade" style="animation-delay:0.32s" x="20" y="191" font-family="Courier New, Courier, monospace" font-size="13" fill="#1f6feb" xml:space="preserve">  ██║     ██║██╔══██╗██╔══██╗</text>
-<text class="fade" style="animation-delay:0.36s" x="20" y="210" font-family="Courier New, Courier, monospace" font-size="13" fill="#1f6feb" xml:space="preserve">  ██║     ██║██████╔╝███████║</text>
-<text class="fade" style="animation-delay:0.40s" x="20" y="229" font-family="Courier New, Courier, monospace" font-size="13" fill="#1f6feb" xml:space="preserve">  ██║     ██║██╔══██╗██╔══██║</text>
-<text class="fade" style="animation-delay:0.44s" x="20" y="248" font-family="Courier New, Courier, monospace" font-size="13" fill="#1f6feb" xml:space="preserve">  ███████╗██║██║  ██║██║  ██║</text>
-<text class="fade" style="animation-delay:0.48s" x="20" y="267" font-family="Courier New, Courier, monospace" font-size="13" fill="#1f6feb" xml:space="preserve">  ╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝</text>
-<text class="fade" style="animation-delay:0.52s" x="270" y="39" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#58a6ff" xml:space="preserve">bruno@lira</text>
-<text class="fade" style="animation-delay:0.55s" x="270" y="58" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#30363d" xml:space="preserve">────────────────────────────────────────────────</text>
-<text class="fade" style="animation-delay:0.58s" x="270" y="77" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">OS ............................. Linux / Windows</text>
-<text class="fade" style="animation-delay:0.61s" x="270" y="96" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">IDE .................................... VS Code</text>
-<text class="fade" style="animation-delay:0.64s" x="270" y="115" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">Shell ............................ JavaScript ❤️</text>
-<text class="fade" style="animation-delay:0.70s" x="270" y="153" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#3fb950" xml:space="preserve">- Languages─────────────────────────────────────</text>
-<text class="fade" style="animation-delay:0.73s" x="270" y="172" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">Programming .............. JavaScript, HTML, CSS</text>
-<text class="fade" style="animation-delay:0.76s" x="270" y="191" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">Aprendendo .......... React, Node.js, TypeScript</text>
-<text class="fade" style="animation-delay:0.79s" x="270" y="210" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">Humana ....................... Português, Inglês</text>
-<text class="fade" style="animation-delay:0.85s" x="270" y="248" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#3fb950" xml:space="preserve">- Hobbies───────────────────────────────────────</text>
-<text class="fade" style="animation-delay:0.88s" x="270" y="267" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">Software ............. Desenvolvimento Front-End</text>
-<text class="fade" style="animation-delay:0.91s" x="270" y="286" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">Objetivo .............. Tornar a web acessível 🚀</text>
-<text class="fade" style="animation-delay:0.97s" x="270" y="324" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#3fb950" xml:space="preserve">- Contact───────────────────────────────────────</text>
-<text class="fade" style="animation-delay:1.00s" x="270" y="343" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">GitHub ..................... github.com/Bru-lira</text>
-<text class="fade" style="animation-delay:1.03s" x="270" y="362" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">LinkedIn ............ linkedin.com/in/seu-perfil</text>
-<text class="fade" style="animation-delay:1.06s" x="270" y="381" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">Email ...................... seu-email@gmail.com</text>
-<text class="fade" style="animation-delay:1.12s" x="270" y="419" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#3fb950" xml:space="preserve">- GitHub Stats──────────────────────────────────</text>
-<text class="fade" style="animation-delay:1.15s" x="270" y="438" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#e6edf3" xml:space="preserve">Repos: 8  |  Stars: 5  |  Followers: 12</text>
-<text class="fade" style="animation-delay:1.18s" x="270" y="457" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#e6edf3" xml:space="preserve">Commits (total): 143</text>
-<text class="blink" x="270" y="476" font-family="Courier New, Courier, monospace" font-size="13" fill="#e6edf3">█</text>
+<rect width="900" height="630" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<text class="fade" style="animation-delay:0.00s" x="20" y="39" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@@@@@@@@@@@@%@#   ..         #@%@@@@@@@%@#++</text>
+<text class="fade" style="animation-delay:0.04s" x="20" y="58" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@@@@@@@@@@@@%@- =**+=--:.    -@%@@@@@@@%@%++</text>
+<text class="fade" style="animation-delay:0.07s" x="20" y="77" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@@@@@@@@@@@%@%.=##%%#*+==-:  -@%@@@@@@@%@%*+</text>
+<text class="fade" style="animation-delay:0.11s" x="20" y="96" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@@@@@@@@@@@%@%:###%#**+++==- .@%@@@@@@@%@%*+</text>
+<text class="fade" style="animation-delay:0.14s" x="20" y="115" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@@@@@@@@@@@%@#=##**#**+++++=..%@%@@@@@@%@%++</text>
+<text class="fade" style="animation-delay:0.18s" x="20" y="134" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@@@@@@@@@@@%@#+##*****++=++=:-%@@@@@@@@%@%++</text>
+<text class="fade" style="animation-delay:0.21s" x="20" y="153" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@@@@@@@@@@@%@%*#####**++++==-=%@@@@@@@@%@%++</text>
+<text class="fade" style="animation-delay:0.25s" x="20" y="172" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@@@@@@@@@@@@@%######***+++===+@@@@@@@@@%@%++</text>
+<text class="fade" style="animation-delay:0.28s" x="20" y="191" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@@@@@@@@@@@@@%###******++++==+%%@@@@@@@%@%*+</text>
+<text class="fade" style="animation-delay:0.32s" x="20" y="210" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@@@@@@@@@@@%%*#*+**+++===-:-=-*@%@@@@@@@@%*=</text>
+<text class="fade" style="animation-delay:0.35s" x="20" y="229" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@@@@@@@@@@%@#+=:....::.     -=#@%@@@@@@@@%*=</text>
+<text class="fade" style="animation-delay:0.39s" x="20" y="248" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@@@@@@@@@@%@# =-           . :%@%@@@@@@@@@*=</text>
+<text class="fade" style="animation-delay:0.42s" x="20" y="267" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@@@@@@@@@@@%@=#+-.       .::.-%@%@@@@@@@%@*=</text>
+<text class="fade" style="animation-delay:0.46s" x="20" y="286" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@@@@@@@@@@@%%**#*::.+= ...:-:=%@%@@@@@@@%@*=</text>
+<text class="fade" style="animation-delay:0.49s" x="20" y="305" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@@@@@@@@@@@%@%=****-*=.:::---=%@%@@@@@@@%@#+</text>
+<text class="fade" style="animation-delay:0.53s" x="20" y="324" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@@@@@@@@@%%%%%*==+-=#+..-:::=-#@%@@@@@@@%@#+</text>
+<text class="fade" style="animation-delay:0.56s" x="20" y="343" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@@@@%@@@@@@@@%**=-:**+-..::--=@%@@@@@@@@%@#+</text>
+<text class="fade" style="animation-delay:0.60s" x="20" y="362" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@@@%@@%@%##%#:=*+--+=--::--=-+@%@@@@@@@@%@#+</text>
+<text class="fade" style="animation-delay:0.63s" x="20" y="381" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">%*=@%%%%*===-:=*+=+- . ------#@%@@@@@@@@%@#+</text>
+<text class="fade" style="animation-delay:0.67s" x="20" y="400" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">@%+#*+**+---..:++==.    .:-:-#%@%@@@@@@@%@#+</text>
+<text class="fade" style="animation-delay:0.70s" x="20" y="419" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">#*+==-=---::: :-+-.:--.  .-....=@%%@@@@@%@#+</text>
+<text class="fade" style="animation-delay:0.74s" x="20" y="438" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">+==--:::...:: :.--.-:... .:     =@@%@@@@%@#+</text>
+<text class="fade" style="animation-delay:0.77s" x="20" y="457" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">=--:.. .....  ..:.--:..:.        -*@%%@@%@#+</text>
+<text class="fade" style="animation-delay:0.81s" x="20" y="476" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">-::...     .  ..-.-=. .:.          +@@%@%@%*</text>
+<text class="fade" style="animation-delay:0.84s" x="20" y="495" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">:.            ..:=.-- .           . :#@%%@%*</text>
+<text class="fade" style="animation-delay:0.88s" x="20" y="514" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">=             ...=-     .            :#@%@%*</text>
+<text class="fade" style="animation-delay:0.91s" x="20" y="533" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">+.             ..-+:....             .-#%%%*</text>
+<text class="fade" style="animation-delay:0.95s" x="20" y="552" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">=:              .-+-:::.             .::*@%*</text>
+<text class="fade" style="animation-delay:0.98s" x="20" y="571" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">-:              .:*+-:.               ..:#%*</text>
+<text class="fade" style="animation-delay:1.02s" x="20" y="590" font-family="Courier New, Courier, monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">-:              ..+*=.                .::=##</text>
+<text class="fade" style="animation-delay:1.05s" x="480" y="39" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#58a6ff" xml:space="preserve">bruno@lira</text>
+<text class="fade" style="animation-delay:1.08s" x="480" y="58" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#444c56" xml:space="preserve">──────────────────────────────────────────────</text>
+<text class="fade" style="animation-delay:1.11s" x="480" y="77" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">OS ........................... Linux / Windows</text>
+<text class="fade" style="animation-delay:1.14s" x="480" y="96" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">IDE .................................. VS Code</text>
+<text class="fade" style="animation-delay:1.17s" x="480" y="115" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">Shell .......................... JavaScript ❤️</text>
+<text class="fade" style="animation-delay:1.23s" x="480" y="153" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#3fb950" xml:space="preserve">- Languages───────────────────────────────────</text>
+<text class="fade" style="animation-delay:1.26s" x="480" y="172" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">Programming ............ JavaScript, HTML, CSS</text>
+<text class="fade" style="animation-delay:1.29s" x="480" y="191" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">Aprendendo ........ React, Node.js, TypeScript</text>
+<text class="fade" style="animation-delay:1.32s" x="480" y="210" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">Humana ..................... Português, Inglês</text>
+<text class="fade" style="animation-delay:1.38s" x="480" y="248" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#3fb950" xml:space="preserve">- Hobbies─────────────────────────────────────</text>
+<text class="fade" style="animation-delay:1.41s" x="480" y="267" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">Software ........... Desenvolvimento Front-End</text>
+<text class="fade" style="animation-delay:1.44s" x="480" y="286" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">Objetivo .......... Web acessível para todos 🚀</text>
+<text class="fade" style="animation-delay:1.50s" x="480" y="324" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#3fb950" xml:space="preserve">- Contact─────────────────────────────────────</text>
+<text class="fade" style="animation-delay:1.53s" x="480" y="343" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">GitHub ................... github.com/Bru-lira</text>
+<text class="fade" style="animation-delay:1.56s" x="480" y="362" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">LinkedIn .......... linkedin.com/in/seu-perfil</text>
+<text class="fade" style="animation-delay:1.59s" x="480" y="381" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#79c0ff" xml:space="preserve">Email .................... seu-email@gmail.com</text>
+<text class="fade" style="animation-delay:1.65s" x="480" y="419" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#3fb950" xml:space="preserve">- GitHub Stats────────────────────────────────</text>
+<text class="fade" style="animation-delay:1.68s" x="480" y="438" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#e6edf3" xml:space="preserve">Repos: 8  |  Stars: 5  |  Followers: 12</text>
+<text class="fade" style="animation-delay:1.71s" x="480" y="457" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#e6edf3" xml:space="preserve">Commits (total): 143</text>
+<text class="blink" x="480" y="476" font-family="Courier New, Courier, monospace" font-size="13" fill="#e6edf3">█</text>
 </svg>
