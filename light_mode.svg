@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="497" viewBox="0 0 860 497">
+<defs><style>
+  .fade{animation:fadeIn 0.5s ease forwards;opacity:0}
+  @keyframes fadeIn{to{opacity:1}}
+  .blink{animation:blink 1s step-end infinite}
+  @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+</style></defs>
+<rect width="860" height="497" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+<text class="fade" style="animation-delay:0.00s" x="20" y="39" font-family="Courier New, Courier, monospace" font-size="13" fill="#0550ae" xml:space="preserve">██████╗ ██████╗ ██╗   ██╗</text>
+<text class="fade" style="animation-delay:0.04s" x="20" y="58" font-family="Courier New, Courier, monospace" font-size="13" fill="#0550ae" xml:space="preserve">  ██╔══██╗██╔══██╗██║   ██║</text>
+<text class="fade" style="animation-delay:0.08s" x="20" y="77" font-family="Courier New, Courier, monospace" font-size="13" fill="#0550ae" xml:space="preserve">  ██████╔╝██████╔╝██║   ██║</text>
+<text class="fade" style="animation-delay:0.12s" x="20" y="96" font-family="Courier New, Courier, monospace" font-size="13" fill="#0550ae" xml:space="preserve">  ██╔══██╗██╔══██╗██║   ██║</text>
+<text class="fade" style="animation-delay:0.16s" x="20" y="115" font-family="Courier New, Courier, monospace" font-size="13" fill="#0550ae" xml:space="preserve">  ██████╔╝██║  ██║╚██████╔╝</text>
+<text class="fade" style="animation-delay:0.20s" x="20" y="134" font-family="Courier New, Courier, monospace" font-size="13" fill="#0550ae" xml:space="preserve">  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝</text>
+<text class="fade" style="animation-delay:0.24s" x="20" y="153" font-family="Courier New, Courier, monospace" font-size="13" fill="#0550ae" xml:space="preserve"></text>
+<text class="fade" style="animation-delay:0.28s" x="20" y="172" font-family="Courier New, Courier, monospace" font-size="13" fill="#0550ae" xml:space="preserve">  ██╗     ██╗██████╗  █████╗</text>
+<text class="fade" style="animation-delay:0.32s" x="20" y="191" font-family="Courier New, Courier, monospace" font-size="13" fill="#0550ae" xml:space="preserve">  ██║     ██║██╔══██╗██╔══██╗</text>
+<text class="fade" style="animation-delay:0.36s" x="20" y="210" font-family="Courier New, Courier, monospace" font-size="13" fill="#0550ae" xml:space="preserve">  ██║     ██║██████╔╝███████║</text>
+<text class="fade" style="animation-delay:0.40s" x="20" y="229" font-family="Courier New, Courier, monospace" font-size="13" fill="#0550ae" xml:space="preserve">  ██║     ██║██╔══██╗██╔══██║</text>
+<text class="fade" style="animation-delay:0.44s" x="20" y="248" font-family="Courier New, Courier, monospace" font-size="13" fill="#0550ae" xml:space="preserve">  ███████╗██║██║  ██║██║  ██║</text>
+<text class="fade" style="animation-delay:0.48s" x="20" y="267" font-family="Courier New, Courier, monospace" font-size="13" fill="#0550ae" xml:space="preserve">  ╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝</text>
+<text class="fade" style="animation-delay:0.52s" x="270" y="39" font-family="Courier New, Courier, monospace" font-size="14" font-weight="bold" fill="#0550ae" xml:space="preserve">bruno@lira</text>
+<text class="fade" style="animation-delay:0.55s" x="270" y="58" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#d0d7de" xml:space="preserve">────────────────────────────────────────────────</text>
+<text class="fade" style="animation-delay:0.58s" x="270" y="77" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#0969da" xml:space="preserve">OS ............................. Linux / Windows</text>
+<text class="fade" style="animation-delay:0.61s" x="270" y="96" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#0969da" xml:space="preserve">IDE .................................... VS Code</text>
+<text class="fade" style="animation-delay:0.64s" x="270" y="115" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#0969da" xml:space="preserve">Shell ............................ JavaScript ❤️</text>
+<text class="fade" style="animation-delay:0.70s" x="270" y="153" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#1a7f37" xml:space="preserve">- Languages─────────────────────────────────────</text>
+<text class="fade" style="animation-delay:0.73s" x="270" y="172" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#0969da" xml:space="preserve">Programming .............. JavaScript, HTML, CSS</text>
+<text class="fade" style="animation-delay:0.76s" x="270" y="191" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#0969da" xml:space="preserve">Aprendendo .......... React, Node.js, TypeScript</text>
+<text class="fade" style="animation-delay:0.79s" x="270" y="210" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#0969da" xml:space="preserve">Humana ....................... Português, Inglês</text>
+<text class="fade" style="animation-delay:0.85s" x="270" y="248" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#1a7f37" xml:space="preserve">- Hobbies───────────────────────────────────────</text>
+<text class="fade" style="animation-delay:0.88s" x="270" y="267" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#0969da" xml:space="preserve">Software ............. Desenvolvimento Front-End</text>
+<text class="fade" style="animation-delay:0.91s" x="270" y="286" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#0969da" xml:space="preserve">Objetivo .............. Tornar a web acessível 🚀</text>
+<text class="fade" style="animation-delay:0.97s" x="270" y="324" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#1a7f37" xml:space="preserve">- Contact───────────────────────────────────────</text>
+<text class="fade" style="animation-delay:1.00s" x="270" y="343" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#0969da" xml:space="preserve">GitHub ..................... github.com/Bru-lira</text>
+<text class="fade" style="animation-delay:1.03s" x="270" y="362" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#0969da" xml:space="preserve">LinkedIn ............ linkedin.com/in/seu-perfil</text>
+<text class="fade" style="animation-delay:1.06s" x="270" y="381" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#0969da" xml:space="preserve">Email ...................... seu-email@gmail.com</text>
+<text class="fade" style="animation-delay:1.12s" x="270" y="419" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#1a7f37" xml:space="preserve">- GitHub Stats──────────────────────────────────</text>
+<text class="fade" style="animation-delay:1.15s" x="270" y="438" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#1f2328" xml:space="preserve">Repos: 8  |  Stars: 5  |  Followers: 12</text>
+<text class="fade" style="animation-delay:1.18s" x="270" y="457" font-family="Courier New, Courier, monospace" font-size="13" font-weight="normal" fill="#1f2328" xml:space="preserve">Commits (total): 143</text>
+<text class="blink" x="270" y="476" font-family="Courier New, Courier, monospace" font-size="13" fill="#1f2328">█</text>
+</svg>
